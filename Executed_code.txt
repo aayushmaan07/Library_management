@@ -1,0 +1,212 @@
+******************LIBRIRIAN LOGIN*******************
+.....................................
+1. Librarian Login.
+2. Student Login.
+3. Exit.
+.....................................
+Enter Your choice:
+1
+
+Enter UserId: 
+NITR
+
+Enter Password: 
+Aayushmaan
+Login successfully.
+
+
+******************PRINT BOOK*******************
+.....................................
+1. Add book.
+2. Delete book.
+3. Update book.
+4. Print Books Details.
+5. Print Books in-order.
+6. Print tree.
+7. Exit
+.....................................
+Enter Your choice:
+4
+Name of book is: DSA
+Total Quantity of book is: 3
+Available Quantity of book is: 3
+Name of book is: Psycology
+Total Quantity of book is: 5
+Available Quantity of book is: 5
+Name of book is: Thermodynamics
+Total Quantity of book is: 5
+Available Quantity of book is: 5
+Name of book is: chemistry
+Total Quantity of book is: 4
+Available Quantity of book is: 4
+Name of book is: maths
+Total Quantity of book is: 1
+Available Quantity of book is: 1
+Name of book is: science
+Total Quantity of book is: 6
+Available Quantity of book is: 6
+
+
+******************UPDATE BOOK*******************
+.....................................
+1. Add book.
+2. Delete book.
+3. Update book.
+4. Print Books Details.
+5. Print Books in-order.
+6. Print tree.
+7. Exit
+.....................................
+Enter Your choice:
+3
+
+Enter name of book:
+DSA
+
+Enter quantity of book to add more:
+
+4
+
+.....................................
+1. Add book.
+2. Delete book.
+3. Update book.
+4. Print Books Details.
+5. Print Books in-order.
+6. Print tree.
+7. Exit
+.....................................
+Enter Your choice:
+4
+Name of book is: DSA
+Total Quantity of book is: 7  **********BOOK UPDATED**********
+Available Quantity of book is: 7
+Name of book is: Psycology
+Total Quantity of book is: 5
+Available Quantity of book is: 5
+Name of book is: Thermodynamics
+Total Quantity of book is: 5
+Available Quantity of book is: 5
+Name of book is: chemistry
+Total Quantity of book is: 4
+Available Quantity of book is: 4
+Name of book is: maths
+Total Quantity of book is: 1
+Available Quantity of book is: 1
+Name of book is: science
+Total Quantity of book is: 6
+Available Quantity of book is: 6
+
+
+******************PRINT TREE*******************
+.....................................
+1. Add book.
+2. Delete book.
+3. Update book.
+4. Print Books Details.
+5. Print Books in-order.
+6. Print tree.
+7. Exit
+.....................................
+Enter Your choice:
+6
+
+          [science]
+     [maths]
+          [chemistry]
+[Thermodynamics]
+          [Psycology]
+     [DSA]
+
+******************STUDENT LOGIN*******************
+
+.....................................
+1. Librarian Login.
+2. Student Login.
+3. Exit.
+.....................................
+Enter Your choice:
+2
+
+.....................................
+1. New User.
+2. Existing User.
+.....................................
+Enter Your choice:
+2
+
+Enter id:
+761
+
+******************BOOK ISSUE*******************
+.....................................
+1. Display.
+2. Issue Book.
+3. Return Book.
+4. Exit.
+.....................................
+Enter Your choice:
+2
+DSA
+Psycology
+Thermodynamics
+chemistry
+maths
+science
+
+
+Enter name of book:
+maths
+Issue Date: 02-07-2024
+Return Date: 09-07-2024
+
+.....................................
+1. Display.
+2. Issue Book.
+3. Return Book.
+4. Exit.
+.....................................
+Enter Your choice:
+2
+DSA
+Psycology
+Thermodynamics
+chemistry
+maths
+science
+
+
+Enter name of book:
+chemistry
+Issue Date: 02-07-2024
+Return Date: 09-07-2024
+
+.....................................
+
+
+******************MORE THAN 2 BOOK ISSUED*******************
+1. Display.
+2. Issue Book.
+3. Return Book.
+4. Exit.
+.....................................
+
+Enter Your choice:
+2
+
+You already have issued 2 books.
+Please return them to issue another.
+
+******************RETURNING BOOK*******************
+.....................................
+1. Display.
+2. Issue Book.
+3. Return Book.
+4. Exit.
+.....................................
+Enter Your choice:
+3
+
+Enter name of book to return:
+chemistry
+
